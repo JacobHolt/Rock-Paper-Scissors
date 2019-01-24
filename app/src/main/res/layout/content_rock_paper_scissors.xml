@@ -50,31 +50,22 @@
         <TextView
             android:id="@+id/scoreKeeper"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/score" />
+            android:layout_height="wrap_content" />
 
         <TextView
             android:id="@+id/playerWeapon"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/playerWeapon" />
+            android:layout_height="wrap_content" />
 
         <TextView
             android:id="@+id/computerWeapon"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/computerWeapon" />
+            android:layout_height="wrap_content" />
 
         <TextView
             android:id="@+id/winnerField"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/winner" />
+            android:layout_height="wrap_content" />
 
-        <TextView
-            android:id="@+id/number"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="TextView" />
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
