@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CS 408 Lab #2</string>
+    <string name="action_settings">Settings</string>
+    <string name="rockPaperScissors">Welcome to Rock-Paper-Scissors!</string>
+    <string name="chooseWeapon">Please choose your weapon:</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="score">Player: 0, Computer: 0</string>
+    <string name="playerWeapon">Player\'s Weapon:</string>
+    <string name="computerWeapon">Computer\'s Weapon:</string>
+    <string name="winner">Player wins!</string>
+</resources>
